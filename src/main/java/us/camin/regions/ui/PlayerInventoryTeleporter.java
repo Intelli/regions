@@ -1,5 +1,7 @@
 package us.camin.regions.ui;
 
+/* Inventory GUI */
+
 /**
  * This file is part of Regions
  *
